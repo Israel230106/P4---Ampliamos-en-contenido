@@ -1,48 +1,33 @@
 Objetivo: Trabajar los CE a), b) y c) del RA1. Responde y desarrolla con tus palabras:
 
-1. ¿Cuál es el objetivo principal de este ODS según la ONU?
+¿Qué es la sostenibilidad y qué papel juega en el sector tecnológico actual?
    
-Según la definición oficial de la ONU (Agenda 2030), su objetivo principal es desarrollar infraestructuras físicas y digitales resilientes que soporten el crecimiento económico sostenible, promover una industrialización inclusiva y ecológica, y fomentar la innovación tecnológica para resolver desafíos globales como la pobreza, la desigualdad y el cambio climático. Esto incluye mejorar el acceso a tecnologías avanzadas, como la digitalización y la automatización, para acelerar el progreso en otros ODS.
-
-¿Qué relación tiene con la tecnología o la informática?
-
-Tiene una relación directa y central con la tecnología y la informática, ya que enfatiza la innovación como motor para la industrialización sostenible. La informática juega un rol clave en el desarrollo de infraestructuras inteligentes (por ejemplo, ciudades inteligentes o redes de transporte automatizadas), la optimización de procesos industriales mediante IA y big data, y la creación de soluciones digitales para la resiliencia ante desastres. La ONU destaca que la tecnología de la información y la comunicación (TIC) es esencial para cerrar brechas en países en desarrollo, promoviendo la inclusión digital y la transformación económica.
-
-¿Qué problemas o retos ambientales/sociales afectan al logro de este objetivo? (describe al menos tres).
-
-1. Desigualdad en el acceso a infraestructuras y tecnologías: Muchos países en desarrollo carecen de redes eléctricas estables, internet de alta velocidad o infraestructuras básicas, lo que limita la innovación y perpetúa la brecha digital, afectando socialmente a poblaciones vulnerables como comunidades rurales o de bajos ingresos.
-2. Impacto ambiental de la industrialización no sostenible: La producción industrial intensiva genera contaminación, deforestación y emisiones de gases de efecto invernadero, exacerbando el cambio climático y la degradación de ecosistemas, lo que contradice la sostenibilidad requerida por el ODS.
-3. Falta de resiliencia ante desastres naturales y ciberamenazas: Infraestructuras obsoletas o mal diseñadas son vulnerables a eventos climáticos extremos (como inundaciones o huracanes) y ataques cibernéticos, lo que retrasa el desarrollo económico y aumenta la inestabilidad social en regiones propensas a crisis.
-   
-¿Cómo influye la actividad tecnológica en esos problemas (de forma positiva o negativa)?
-
-Positiva: Tecnologías como la IA y el IoT permiten diseñar infraestructuras resilientes (ej. predicción de desastres mediante sensores), promover industrialización sostenible (ej. fabricación aditiva que reduce residuos) y fomentar inclusión (ej. apps para acceso a educación digital, reduciendo desigualdades).
-Negativa: La producción de dispositivos tecnológicos genera contaminación (ej. extracción de minerales raros causa deforestación y emisiones), obsolescencia programada aumenta residuos electrónicos, y la dependencia de TIC puede amplificar desigualdades si no se distribuye equitativamente, además de riesgos de ciberseguridad que afectan la resiliencia.
-
-¿Qué soluciones tecnológicas podrían aplicarse para mitigarlos o resolverlos?
-
-Para desigualdad en acceso: Implementar redes 5G/6G y satélites de bajo costo (como Starlink de SpaceX) para expandir internet en áreas remotas, combinado con plataformas de e-learning basadas en IA para capacitación inclusiva.
-Para impacto ambiental: Adoptar energías renovables integradas con blockchain para rastrear cadenas de suministro sostenibles, y usar IA para optimizar procesos industriales, reduciendo emisiones (ej. algoritmos de eficiencia energética).
-Para resiliencia ante desastres: Desarrollar sistemas de monitoreo en tiempo real con drones y sensores IoT para predicción y respuesta rápida, junto con ciberseguridad avanzada (ej. encriptación cuántica) para proteger infraestructuras críticas.
+se refiere al desarrollo que satisface las necesidades del presente sin comprometer las de las generaciones futuras, equilibrando recursos ambientales, sociales y económicos. En el sector tecnológico actual, juega un papel crucial como impulsor de innovación responsable:
+las empresas tech deben diseñar productos y servicios que reduzcan su huella ecológica, promuevan inclusión social y generen valor económico sostenible.
 
 
-¿Qué ejemplos o casos reales conoces (empresas, proyectos, iniciativas)?
+¿Qué dimensiones abarca (ambiental, social, económica)?
 
-Empresas: Tesla ha innovado en baterías y vehículos eléctricos sostenibles, contribuyendo a la industrialización ecológica y resiliencia energética (ej. su red de supercargadores).
+Ambiental: Preservación de ecosistemas, reducción de emisiones de carbono, gestión de residuos y uso eficiente de recursos naturales. En tecnología, implica minimizar el impacto de la fabricación de dispositivos (ej. extracción de litio para baterías).
+Social: Inclusión, equidad y bienestar humano, incluyendo derechos laborales, diversidad y acceso a oportunidades. Para el sector tech, significa promover la alfabetización digital y evitar explotación en cadenas de suministro.
+Económica: Crecimiento rentable a largo plazo, innovación y creación de empleos sostenibles. Las empresas tech deben equilibrar ganancias con inversiones en R&D ética y modelos circulares (ej. reutilización de hardware).
 
-Proyectos: El proyecto "Smart Nation" de Singapur utiliza TIC para infraestructuras resilientes, como sensores urbanos para gestión de tráfico y agua, reduciendo emisiones y mejorando la calidad de vida.
+¿Qué son los aspectos ASG y por qué deben interesar a una empresa tecnológica?
 
-Iniciativas: La iniciativa "Digital Earth Africa" de la Unión Africana emplea datos satelitales y IA para monitorear cambios ambientales, ayudando a países en desarrollo a construir infraestructuras sostenibles y mitigar desastres.
+ASG significa Ambiental, Social y Gobernanza (del inglés ESG: Environmental, Social, Governance). Son criterios no financieros que evalúan el impacto sostenible de una empresa:
 
-¿Qué indicadores o métricas podrían usarse para medir el progreso hacia este ODS?
+Ambiental: Huella ecológica y prácticas verdes.
+Social: Relaciones con empleados, comunidades y derechos humanos.
+Gobernanza: Ética corporativa, transparencia y gestión de riesgos. Deben interesar a una empresa tecnológica porque influyen en la reputación, atracción de talento, inversiones (ej. fondos ESG) y cumplimiento regulatorio (como la Directiva CSRD de la UE). En tech, ignorar ASG puede llevar a boicots (ej. por privacidad de datos) o multas, mientras que adoptarlos fomenta innovación sostenible, reduce riesgos legales y mejora la competitividad en un mercado cada vez más consciente (ej. Apple y Google reportan métricas ASG para inversores).
 
-Proporción de la población con acceso a internet: Mide inclusión digital (meta: 100% para 2030).
+¿Qué marcos internacionales impulsan la sostenibilidad (Agenda 2030, ODS)?
 
-Inversión en investigación y desarrollo (I+D) como porcentaje del PIB: Evalúa el fomento de innovación (ej. objetivo de al menos 1-2% en países en desarrollo).
-
-Emisiones de CO2 por unidad de valor añadido industrial: Rastrea sostenibilidad ambiental en la industrialización.
-
-Índice de resiliencia de infraestructuras: Basado en métricas como frecuencia de interrupciones en servicios esenciales o capacidad de recuperación ante desastres. Estos indicadores se actualizan anualmente en informes 
-como el "Sustainable Development Report" para rastrear avances globales. Si te refieres a un ODS específico diferente, por favor acláralo para una respuesta más precisa.
+Agenda 2030 para el Desarrollo Sostenible: Adoptada por la ONU en 2015, es un plan global con 17 Objetivos de Desarrollo Sostenible (ODS) para abordar desafíos como pobreza, desigualdad y cambio climático. Impulsa la sostenibilidad mediante metas cuantificables y colaboración internacional.
+ODS (Objetivos de Desarrollo Sostenible): Parte de la Agenda 2030, son 17 metas específicas (ej. ODS 7: Energía asequible y no contaminante) que guían políticas nacionales y empresariales hacia un desarrollo equilibrado, con indicadores para medir progreso.
 
 
+¿Qué tres ODS están más relacionados con la informática o el desarrollo de software?
+
+ODS 9 (Industria, Innovación e Infraestructura): Enfocado en infraestructuras resilientes y innovación tecnológica, directamente vinculado al desarrollo de software para soluciones como IA en ciudades inteligentes o automatización industrial sostenible.
+ODS 3 (Salud y Bienestar): Relacionado con el uso de software en telemedicina, apps de salud digital y análisis de datos para prevenir enfermedades, mejorando el acceso global a cuidados médicos.
+ODS 12 (Producción y Consumo Sostenibles): Aborda la reducción de residuos y el diseño circular, aplicable al desarrollo de software que optimiza cadenas de suministro, reduce el consumo energético en data centers y promueve apps para consumo responsable (ej. plataformas de economía circular).
