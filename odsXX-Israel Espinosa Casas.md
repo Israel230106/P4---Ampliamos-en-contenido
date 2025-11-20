@@ -37,3 +37,7 @@ Inversión en investigación y desarrollo (I+D) como porcentaje del PIB: Evalúa
 Emisiones de CO2 por unidad de valor añadido industrial: Rastrea sostenibilidad ambiental en la industrialización.
 
 Índice de resiliencia de infraestructuras: Basado en métricas como frecuencia de interrupciones en servicios esenciales o capacidad de recuperación ante desastres. Estos indicadores se actualizan anualmente en informes como el "Sustainable Development Report" para rastrear avances globales. Si te refieres a un ODS específico diferente, por favor acláralo para una respuesta más precisa.
+
+Otros ODS relacionados:
+
+
